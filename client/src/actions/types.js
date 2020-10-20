@@ -14,3 +14,6 @@ export const SELECTED_PRODUCT='selected_product';
 export const SELECTED_CAR='selected_car';
 export const FETCH_FILTRED_CARS='fetch_filtred_cars';
 export const FILTER_ACTIVATION='filter_activation';
+export const GET_ERRORS = "GET_ERRORS";
+export const USER_LOADING = "USER_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";

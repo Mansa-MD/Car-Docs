@@ -16,7 +16,7 @@ const Footer = () => {
                     </p>
                     <ul className="list-default">
                         <li>
-                        <i className="fa fa-signal" />🏎, NY, USA
+                        <i className="fa fa-signal" />Brooklyn, NY, USA
                         </li>
                         <li>
                         <a href="tel:01686813774">
